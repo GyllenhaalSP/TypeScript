@@ -1,4 +1,4 @@
-<h1 align="center">Aprendiendo Typescript</h1>
+<h1 align="center">Aprendiendo TypeScript</h1>
 
 ![Typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
 
